@@ -1,4 +1,4 @@
-# CS4347
+# CS4347 -Fall 2019
 CS4347 : INTRODUCTION TO MACHINE LEARNING
 
 This repo contains homework for CS4347
